@@ -6,8 +6,8 @@ class PickupSavings extends Component {
 
         const tooltip = (
             <Tooltip id="tooltip">
-            <p>Picking up your order in the store helps cut costs, and we pass the savings on to you.</p>
-        </Tooltip>
+                <p>Picking up your order in the store helps cut costs, and we pass the savings on to you.</p>
+            </Tooltip>
         );
 
         return (
